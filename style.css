@@ -1,0 +1,69 @@
+.hei{
+    height: 50vh;
+    padding: 50px;
+}
+h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+}
+section
+{
+background-color: skyblue;
+padding: 10px; ;
+}
+h2
+{
+padding: 40px;
+color:tan;
+}
+.ok
+{
+    height: 10px;
+}
+p
+{
+    background-color: skyblue;
+    padding: 30px;
+    margin: 20px;
+}
+.ajmel
+{
+    height: 50vh;
+    padding: 50px;
+}
+.adith
+{
+height: 70px;
+
+}
+.pad
+{
+    margin: 20px;
+}
+.bg
+{
+    background-image: url(images/wallpaper.webp);
+
+}
+.kkd
+{
+    color:darkslategrey
+
+}
+.sneha
+{
+    color: aliceblue;
+}
+.q
+{
+    background-image: url(images/pic.webp);
+}
+.index
+{
+    background-image: url(images/tech.webp);
+}
+.ind
+{
+    background-image: url(images/ok.webp)
+}
